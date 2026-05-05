@@ -59,7 +59,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please contact us:
 
 *   **Company Name:** Project 2morrow Software Limited
-*   **Legal Representative:** Sajjad Kabir Md. Shariful Alam
-*   **Address:** Hyperian Garden 3, Mirpur, Dhaka - 1216, Bangladesh (BD)
-*   **Email:** info.p2mofficial@gmail.com
+*   **Email:** info@p2msoft.com
 *   **Website:** https://p2msoft.com/
